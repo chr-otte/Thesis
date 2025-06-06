@@ -1,0 +1,13 @@
+fastdtw==0.3.4
+flwr==1.15.2
+joblib==1.4.2
+matplotlib==3.10.1
+networkx==3.4.2
+numpy==2.2.3
+pandas==2.2.3
+ray==2.31.0
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+torch==2.6.0
+
